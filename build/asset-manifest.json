@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5aff992e.css",
+    "main.js": "/static/js/main.69e87f92.js",
+    "static/media/asar-logo-md-wt.svg": "/static/media/asar-logo-md-wt.1fdac3cfda1ec9af22e78bdbc74384d5.svg",
+    "static/media/asar-logo-lg-wt.svg": "/static/media/asar-logo-lg-wt.7acaca47db195a685d8a4692afba5c46.svg",
+    "index.html": "/index.html",
+    "main.5aff992e.css.map": "/static/css/main.5aff992e.css.map",
+    "main.69e87f92.js.map": "/static/js/main.69e87f92.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5aff992e.css",
+    "static/js/main.69e87f92.js"
+  ]
+}
