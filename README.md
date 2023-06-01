@@ -2,6 +2,8 @@
 
 ## Descriptions
 
+Express Your Creativity with Easy-to-Use Tools for Pixel Art Creation
+
 Pixel Art is a dynamic app designed for creating pixel-based artwork with ease. Whether you're an artist, designer, or simply enjoy pixel art, this app provides a versatile canvas and a range of useful tools to bring your imagination to life.
 
 The app features a Dark/Light mode button, allowing users to switch between different color themes based on their preference. Additionally, there's a draggable color palette button that provides a convenient way to select and apply colors to the canvas. Users can also toggle the visibility of the grid borders using the show/hide grid border button, providing flexibility in working with or without a grid.
