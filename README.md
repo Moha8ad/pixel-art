@@ -27,6 +27,16 @@ Pixel Art utilizes popular libraries and frameworks such as React, Redux, and Ma
 [![Redux Logger](https://img.shields.io/badge/Redux%20Logger-3.0.6-blue)](https://www.npmjs.com/package/redux-logger)
 [![Redux Persist](https://img.shields.io/badge/Redux%20Persist-6.0.0-blue)](https://www.npmjs.com/package/redux-persist)
 
+## Features
+
+- Dark/Light Mode: Easily switch between dark and light color themes.
+- Draggable Color Palette: Select and apply colors to the canvas with a draggable palette.
+- Grid Border Visibility: Show or hide grid borders for flexible canvas usage.
+- Transparent Export: Export artwork as transparent PNG files.
+- Download Functionality: Quickly download pixel art creations.
+- Bucket and Brush Tools: Fill pixels with the same color or color individual pixels.
+- Undo and Undo All: Revert or reset changes made to the canvas.
+- Customizable Pixel Dimensions: Choose preset or custom pixel dimensions.
 
 ## Installation
 
